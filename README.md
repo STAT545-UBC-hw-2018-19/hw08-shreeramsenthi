@@ -1,4 +1,4 @@
-# Stat547 Assignment 2: Package Development
+# Stat547 Assignment 3: Shiny
 
 This is my submission for assignment 3 of the 2018 iteration of the Stat547 course at UBC.
 
@@ -8,8 +8,10 @@ Specifically, we began with a data set and simple website courtesy of [Dean Atta
 
 From here, we were tasked with adding functionality or UI changes to improve the utility and accessibility of the data. I chose to focus on making the following changes:
 
-1)
+1) Filter results by name
 
-2)
+2) Add option to filter by type and subtype
 
-3)
+3) Change the x-axis of the plot
+
+Check out the final product [here](https://shreeramsenthi.shinyapps.io/BCL-App/)!
