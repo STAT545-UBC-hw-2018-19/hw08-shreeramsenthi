@@ -14,4 +14,4 @@ From here, we were tasked with adding functionality or UI changes to improve the
 
 3) Change the x-axis of the plot
 
-Check out the final product [here](https://shreeramsenthi.shinyapps.io/BCL-App/)!
+Check out the code [here](https://github.com/STAT545-UBC-students/hw08-shreeramsenthi/blob/master/bcl/app.R) and a live version of the final product hosted on shinyapps.io [here](https://shreeramsenthi.shinyapps.io/BCL-App/)!
